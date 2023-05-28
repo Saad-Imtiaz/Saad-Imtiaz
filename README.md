@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Saad-Imtiaz
 - 👀 I’m interested in IoT, Embedded Systems
-- 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on IoT and Embedded Projects
 - 📫 How to reach me saadimtiazsial@gmail.com
 
