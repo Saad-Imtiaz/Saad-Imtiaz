@@ -22,7 +22,6 @@ I build hardware prototypes, PCBs, 3D enclosures, and other multidisciplinary pr
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
- <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
@@ -30,13 +29,16 @@ I build hardware prototypes, PCBs, 3D enclosures, and other multidisciplinary pr
  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
- <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src=" " width="36" height="36" alt="SOLIDWORKS" /></a>
- <a href="https://www.onshape.com/" target="_blank" rel="noreferrer"><img src=" " width="36" height="36" alt="OnShape" /></a>
- <a href="https://www.altium.com/" target="_blank" rel="noreferrer"><img src=" " width="36" height="36" alt="Altium" /></a>
- <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"><img src=" " width="36" height="36" alt="Proteus" /></a>
- <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"><img src=" " width="36" height="36" alt="KiCAD" /></a>
- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src=" " width="36" height="36" alt="MATLAB" /></a>
- <a href="https://www.3ds.com/products/catia" target="_blank" rel="noreferrer"><img src=" " width="36" height="36" alt="CATIA V5" /></a>
+ <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/solidworks.svg" width="" height="36" alt="SOLIDWORKS" /></a>
+ <a href="https://www.onshape.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/onshape.png" width="" height="40" alt="OnShape" /></a>
+ <a href="https://www.altium.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/altium.svg" width="" height="36" alt="Altium" /></a>
+ <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/proteus.webp" width="" height="36" alt="Proteus" /></a>
+ <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/kicad.png" width="" height="36" alt="KiCAD" /></a>
+ <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/matlab.svg" width="" height="36" alt="MATLAB" /></a>
+ <a href="https://www.3ds.com/products/catia" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/catia.png " width="" height="30" alt="CATIA V5" /></a>
+ <a href="https://www.3ds.com/products/catia" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/esp.svg" width="" height="30" alt="Espressif" /></a>
+ <a href="https://www.3ds.com/products/catia" target="_blank" rel="noreferrer"><img src="https://github.com/Saad-Imtiaz/Saad-Imtiaz/blob/main/images/logos/stm32.svg" width="" height="30" alt="STM32" /></a>
+ <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="" height="36" alt="Arduino" /></a>
 </p>
 
 
