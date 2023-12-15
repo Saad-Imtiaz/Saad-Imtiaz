@@ -11,7 +11,7 @@ Hey! I'm Saad Imtiaz (aka MS21Z).
 
 I build hardware prototypes, PCBs, 3D enclosures, and other multidisciplinary projects.
 
-### Skills
+### Thing I know about
 
 
 <p align="left">
