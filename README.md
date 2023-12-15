@@ -41,8 +41,9 @@ I build hardware prototypes, PCBs, 3D enclosures, and other multidisciplinary pr
  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="" height="36" alt="Arduino" /></a>
 </p>
 
-
-
+### My Projects
+- 🛠 [IoT Management Dashboard](https://github.com/LOOFTInc/LOOFT-Management-Dashboard): IoT Dashboard that lets you monitor your IoT devices from anywhere
+- 🛠 [CaptureCount](https://github.com/ElektorLabs/CaptureCount): Real-time object detection and counting on Raspberry Pi 5, using the YOLOv3
 
 <!---
 Saad-Imtiaz/Saad-Imtiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
