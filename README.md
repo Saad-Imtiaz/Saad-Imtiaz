@@ -4,7 +4,7 @@
 Hey! I'm Saad Imtiaz (aka MS21Z).
 
  [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://saadimtiaz.com)
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/saad-imtiaz/)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/msaadimtiaz/)
  [![Email](https://img.shields.io/badge/Email-3e65cf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@saadimtiaz.com)
  
 <h3><b><u>Mechatronics Developer 🛠</u></b></h3>
